@@ -1,0 +1,328 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 35772,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "how",
+      "description": "to",
+      "location": "do",
+      "date": "2019-04-02T08:04:00.000Z",
+      "time": "15.00",
+      "attendees": []
+    },
+    {
+      "id": 539401,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "tester",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 820669,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "try 2",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 271035,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "two",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 279266,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "testrrr",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 422578,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "1",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 645004,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "1",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 815201,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "12312",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5460066,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "123123213",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1809973,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "education",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "World Sos",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9371022,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "baseInput",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 507922,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "housing",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "baseSelect",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9015860,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "nature",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "baseButton",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7546312,
+      "user": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "name": "Rafiqin",
+        "id": "abc123"
+      },
+      "title": "mixins",
+      "description": "mixins",
+      "location": "home",
+      "date": "2019-04-02T07:48:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    }
+  ]
+}
